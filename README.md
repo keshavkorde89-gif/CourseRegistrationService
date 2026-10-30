@@ -1,10 +1,10 @@
-# Course Registration — .NET 8 + EF Core InMemory
+# Course Registration — .NET 10 + EF Core InMemory
 
-A .NET 8 ASP.NET Core API for enrollment, drops, and FIFO waitlist promotion. It uses EF Core's InMemory provider and deterministic `HasData()` seed data; it is a prototype, not production persistence.
+A .NET 10 ASP.NET Core API for enrollment, drops, and FIFO waitlist promotion. It uses EF Core's InMemory provider and deterministic `HasData()` seed data; it is a prototype, not production persistence.
 
 ## Requirements
 
-- .NET 8 SDK
+- .NET 10 SDK
 - Network access on first run to restore NuGet packages
 
 ## Run from the solution directory
