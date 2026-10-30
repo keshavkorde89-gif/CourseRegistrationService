@@ -4,7 +4,7 @@
 
 ## Prompt used
 
-The implementation request asked for a minimal .NET 8 course registration assessment using EF Core InMemory, deterministic dummy data, structured `ILogger<T>` logging, enrollment/drop/FIFO promotion, prerequisite checks, xUnit tests, and design/setup/AI-use documentation. It specified the policy to skip ineligible waitlisted learners during promotion but retain their entries, and asked for honest reporting of test execution.
+The implementation request asked for a minimal .NET 10 course registration assessment using EF Core InMemory, deterministic dummy data, structured `ILogger<T>` logging, enrollment/drop/FIFO promotion, prerequisite checks, xUnit tests, and design/setup/AI-use documentation. It specified the policy to skip ineligible waitlisted learners during promotion but retain their entries, and asked for honest reporting of test execution.
 
 ## AI-assisted contribution summary
 
